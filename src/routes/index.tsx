@@ -416,7 +416,7 @@ function Index() {
 {"  "}<span className="text-sky-300">name</span>: <span className="neon-text">&quot;David Njau Githehu&quot;</span>;{"\n"}
 {"  "}<span className="text-sky-300">role</span>: <span className="neon-text">&quot;Full-Stack DEV + Ai Expert&quot;</span>;{"\n"}
 {"  "}<span className="text-sky-300">based</span>: <span className="neon-text">&quot;Nairobi, KE&quot;</span>;{"\n"}
-{"  "}<span className="text-sky-300">company</span>: <span className="neon-text">&quot;Enterpreure&quot;</span>;{"\n"}
+{"  "}<span className="text-sky-300">company</span>: <span className="neon-text">&quot;Entrepreneur&quot;</span>;{"\n"}
 {"  "}<span className="text-sky-300">stack</span>: <span className="text-orange-300">string</span>[];{"\n"}
 {"  "}<span className="text-sky-300">availableForWork</span>: <span className="text-orange-300">true</span>;{"\n"}
 {"}"}{"\n"}
